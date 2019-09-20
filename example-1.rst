@@ -18,8 +18,6 @@ including each type of layout items described in the previous section.
    :align: center
    :width: 100%
 
-   Print Layout with map view, legend, image, scale bar, coordinates, text and
-   HTML frame added
 
 .. index:: Export as image, Export as PDF, Export as SVG
 
@@ -33,6 +31,18 @@ layout to different file formats, and it is possible to modify the resolution
 .. figure:: img/Print.png
    :align: center
    :width: 100%
+
+The :ref:`figure below <figure_layout_output>` shows an example of print layout
+including each type of layout items described in the previous section.
+
+.. _figure_layout_output:
+
+.. figure:: img/print_composer_complete.png
+   :align: center
+   :width: 100%
+
+
+
 
 Export settings
 ===============
